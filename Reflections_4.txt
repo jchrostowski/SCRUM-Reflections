@@ -1,0 +1,49 @@
+Scrum Kanban
+Nakazuje iteracje ograniczone
+czasowo.
+Iteracje ograniczone czasowo są
+opcjonalne.
+Może mieć odrębne kadencje dla
+planowania, wdrażania
+i usprawniania procesu. Iteracje
+mogą być sterowane zdarzeniami
+zamiast określania ram
+czasowych.
+Zespół zobowiązuje się do
+wykonania określonej liczby
+zadań podczas iteracji.
+Zobowiązania są opcjonalne.
+Wykorzystuje szybkość jako
+domyślny pomiar podczas
+planowania i usprawniania
+procesu.
+Wykorzystuje czas dostarczenia
+jako domyślny pomiar podczas
+planowania i usprawniania
+procesu.
+Nakazuje wykorzystanie zespołów
+wielofunkcyjnych.
+Zespoły wielofunkcyjne są
+opcjonalne. Dozwolone są
+zespoły specjalistyczne.
+Zadania muszą być rozbite, aby
+mogły zmieścić się w ramach
+jednego sprintu.
+Nie nakazuje konkretnego
+rozmiaru zadań.
+Nakazuje diagram spalania. Nie nakazuje konkretnego typu
+diagramu.
+WIP ograniczony pośrednio (per
+sprint).
+WIP ograniczony bezpośrednio
+(per stan przepływu).
+Nakazuje szacowanie. Szacowanie jest opcjonalne.
+Nie można dodawać zadań
+w trakcie iteracji.
+Można dodawać zadania, kiedy
+dostępna jest pojemność.
+Rejestr sprintu jest własnością
+jednego zespołu.
+Tablica może być współdzielona
+przez wiele zespołów lub osób.
+Nakazuje trzy role (PO/SM/T). Nie nakazuje żadnych ról.
